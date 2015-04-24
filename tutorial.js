@@ -2,7 +2,7 @@
 var DROPBOX_APP_KEY = 'xoit9j3uwj9vmdv';
 
 // Exposed for easy access in the browser console.
-var client = new Dropbox.Client({key: DROPBOX_APP_KEY});
+var client = new Dropbox.Client({key: nn806etnftp1q6c});
 client.authDriver(new Dropbox.AuthDriver.Cordova());
 var taskTable;
 
